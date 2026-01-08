@@ -12,13 +12,3 @@
 ## 📝 **Projects**
 
 ### Nenhum projeto sendo feito ou trabalhado(temporário)
-
-
-
-auihduiawhd
-
-
-
-
-
-
