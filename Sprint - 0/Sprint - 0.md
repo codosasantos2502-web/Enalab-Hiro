@@ -15,3 +15,4 @@
 
 ## Day 4 - AI e Prompt Engineering
 
+### Durante o dia, estudei sobre Prompt, não vi o video por completo até o momento, mas irei termina-lo em breve. Até então compreendi como devemos criar um prompt de forma mais eficaz na IA(seja qual for), através de tecnicas, como de utilizar dicas para melhor resultado e satisfatorio, criar uma linha de pensamento com objetivos claros e diretos, utilizar informções para criar um contexto previo para a AI entender e fazer uma resposta de acordo entre outras.
