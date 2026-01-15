@@ -7,7 +7,7 @@
 - ### I worked on the "diagram" I was making in Excalidraw until about halfway through. I haven't been able to study it for a few reasons.
 
 ## **Week 1** - Wednesday
-- ### Today I finished the "Diagram" about SDLC and put the link to it here (at the end), and I hope to be able to study what I couldn't yesterday and what I'm going to study today. [https://excalidraw.com/#json=_bTczZBhJ_JycwjU1SVam,vCCSkRj8qEzyRAreIyrNLQ]
+- ### Today I finished the "Diagram" about SDLC and put the link to it here (at the end), and I hope to be able to study what I couldn't yesterday and what I'm going to study today. [https://excalidraw.com/#json=_bTczZBhJ_JycwjU1SVam,vCCSkRj8qEzyRAreIyrNLQ], I also studied about Requirements Analysis which I will talk to and do the task (Day 4) tomorrow.
   
 ## **Week 1** -
  
