@@ -26,3 +26,5 @@
 ## **Week 2** - Wednesday
 - ### Today I completed the task on .json files, and later I will study Introduction to Software Testing.
 
+## **Week 2** - Thuerday
+- ### Today I studied Test Cases and understood how they work. I just need to apply more practice, because I improve better that way. I also completed the requested task.
